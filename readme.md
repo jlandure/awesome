@@ -531,6 +531,7 @@
 
 - [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
 	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
+- [Remote work](https://github.com/jlandure/awesome-remote-work)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
